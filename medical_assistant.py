@@ -16,7 +16,7 @@ zp.api_key = "5c4b3cc18b174a36c0e55e8d2c5a2a9a.fdgOoSvK7xsLpcKo"
 
 # 李时珍图片
 def display_li_shizhen_image():
-    st.image('li_shizhen.png')
+    st.image('pictures\li_shizhen.png')
 
 # 文字转语音
 def text_to_speech(text):
