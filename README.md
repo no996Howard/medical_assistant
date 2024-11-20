@@ -37,7 +37,8 @@
 ├── crawler.py                 # 爬虫脚本，用于获取药材数据
 ├── pictures/                  # 存放药材图片的目录
 ├── herb_description.txt       # 保存药材描述的文本文件
-├── requirements.txt           # Python 依赖库列表
+├── herb_data.txt              # 处理后的药材描述的文本文件
+├── pictures.zip               # 药材图片库
 
 ```
 
