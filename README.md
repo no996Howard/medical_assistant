@@ -94,10 +94,10 @@ cd Traditional-Medicine-Assistant
 - 集成更高级的图片识别模型。
 
 ## 项目贡献者
-- no996Howard -
-- Qingjie Huang -
-- Zihan Lian -
-- Ziyao Wei -
+- no996Howard 
+- Qingjie Huang 
+- Zihan Lian 
+- Ziyao Wei 
 - 智谱清言 - AI 模型集成支持
 - 百度开源植物识别大模型 - "https://cloud.baidu.com/doc/IMAGERECOGNITION/s/Mk3bcxe9i"
 
