@@ -1,0 +1,82 @@
+中药材数据
+
+if herb_choice == "未知药材":
+    st.write("未知药材，半夏多用块茎入药，原植物为多年生草本。块茎近球形，叶出自块茎...")
+    st.image("zhongyoo_images/未知药材.jpg")
+
+if herb_choice == "未知药材":
+    st.write("未知药材，鱼胆草全草呈黄绿色，根茎略呈圆柱形，茎纤细圆形略呈四棱形，单...")
+    st.image("zhongyoo_images/未知药材.jpg")
+
+if herb_choice == "未知药材":
+    st.write("未知药材，路路通采自枫香的成熟果序，原植物为乔木，高达40米，树皮灰褐色...")
+    st.image("zhongyoo_images/未知药材.jpg")
+
+if herb_choice == "未知药材":
+    st.write("未知药材，党参原植物属草质藤本，除叶片两面密被柔毛外，根常肥大肉质，呈...")
+    st.image("zhongyoo_images/未知药材.jpg")
+
+if herb_choice == "未知药材":
+    st.write("未知药材，胆木的功效与作用：清热解毒，消肿止痛。胆木用法用量：煎汤内服...")
+    st.image("zhongyoo_images/未知药材.jpg")
+
+if herb_choice == "未知药材":
+    st.write("未知药材，山姜别名和山姜，表面棕色或红棕色，气香，味辛辣。山姜的功效与...")
+    st.image("zhongyoo_images/未知药材.jpg")
+
+if herb_choice == "未知药材":
+    st.write("未知药材，藤黄是藤黄树的干燥胶树脂。藤黄的功效与作用：消肿排脓，散瘀解...")
+    st.image("zhongyoo_images/未知药材.jpg")
+
+if herb_choice == "未知药材":
+    st.write("未知药材，肉豆蔻用成熟种仁入药，原植物为常绿乔木，单叶互生，革质，果实...")
+    st.image("zhongyoo_images/未知药材.jpg")
+
+if herb_choice == "未知药材":
+    st.write("未知药材，山萸肉的功效与作用：补益肝肾、涩精固脱。秋末冬初山萸肉果皮变...")
+    st.image("zhongyoo_images/未知药材.jpg")
+
+if herb_choice == "未知药材":
+    st.write("未知药材，萝藦性平，味甘、辛，呈单一或数股绞扭呈束状，长短不一，茎为长...")
+    st.image("zhongyoo_images/未知药材.jpg")
+
+if herb_choice == "未知药材":
+    st.write("未知药材，乌桕子呈椭圆形或半球形，长5～8毫米，直径4～6毫米，表面具白色...")
+    st.image("zhongyoo_images/未知药材.jpg")
+
+if herb_choice == "未知药材":
+    st.write("未知药材，一点红常生于山野、村边、路旁、田洼或旷野草地上，夏、秋季采收...")
+    st.image("zhongyoo_images/未知药材.jpg")
+
+if herb_choice == "未知药材":
+    st.write("未知药材，醉鱼草，落叶灌木，树皮茶褐色。全年可采全株或叶，用量10～30克...")
+    st.image("zhongyoo_images/未知药材.jpg")
+
+if herb_choice == "未知药材":
+    st.write("未知药材，铁苋别名铁苋菜，干燥全草入药，5～7月间采收，除去泥土，晒干或...")
+    st.image("zhongyoo_images/未知药材.jpg")
+
+if herb_choice == "未知药材":
+    st.write("未知药材，八角莲的功效与作用：痰散结，祛瘀止痛，清热解毒。八角莲表面黄...")
+    st.image("zhongyoo_images/未知药材.jpg")
+
+if herb_choice == "未知药材":
+    st.write("未知药材，海马，生活于近海海藻茂盛的水域中，全年可捕捉。捕得后，将尾盘...")
+    st.image("zhongyoo_images/未知药材.jpg")
+
+if herb_choice == "未知药材":
+    st.write("未知药材，九节菖蒲是阿尔泰银莲花的干燥根茎。夏季采挖，除去泥沙，干燥，...")
+    st.image("zhongyoo_images/未知药材.jpg")
+
+if herb_choice == "未知药材":
+    st.write("未知药材，黄芪，主根长而粗壮，条较顺直。蒙古黄芪生于向阳草地及山坡。膜...")
+    st.image("zhongyoo_images/未知药材.jpg")
+
+if herb_choice == "未知药材":
+    st.write("未知药材，防风草全草长60～180厘米，全体被白色短粗毛，用量9～15克，煎服...")
+    st.image("zhongyoo_images/未知药材.jpg")
+
+if herb_choice == "未知药材":
+    st.write("未知药材，豆蔻别名白豆蔻，多年生丛生草本。根茎匍匐，粗壮。蒴果土黄色或...")
+    st.image("zhongyoo_images/未知药材.jpg")
+
