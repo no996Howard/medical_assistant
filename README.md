@@ -58,7 +58,7 @@
 #### 克隆代码库
 ```bash
 git clone https://github.com/your-repo/Traditional-Medicine-Assistant.git
-cd Traditional-Medicine-Assistant](https://github.com/no996Howard/medical_assistant.git
+cd Traditional-Medicine-Assistant
 ```
 
 ### 准备资源
